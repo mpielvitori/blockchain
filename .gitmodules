@@ -1,0 +1,6 @@
+[submodule "hello-world-bsc"]
+	path = hello-world-bsc
+	url = https://github.com/mpielvitori/hello-world-bsc.git
+[submodule "InboxDApp"]
+	path = InboxDApp
+	url = https://github.com/mpielvitori/InboxDApp.git
