@@ -4,3 +4,6 @@
 [submodule "InboxDApp"]
 	path = InboxDApp
 	url = https://github.com/mpielvitori/InboxDApp.git
+[submodule "BEP20Token"]
+	path = BEP20Token
+	url = https://github.com/mpielvitori/BEP20Token.git
