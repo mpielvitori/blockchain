@@ -7,3 +7,6 @@
 [submodule "BEP20Token"]
 	path = BEP20Token
 	url = https://github.com/mpielvitori/BEP20Token.git
+[submodule "lotteryDApp"]
+	path = lotteryDApp
+	url = https://github.com/mpielvitori/lotteryDApp.git
