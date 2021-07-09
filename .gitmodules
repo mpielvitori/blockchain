@@ -10,3 +10,6 @@
 [submodule "lotteryDApp"]
 	path = lotteryDApp
 	url = https://github.com/mpielvitori/lotteryDApp.git
+[submodule "crowdfunding"]
+	path = crowdfunding
+	url = https://github.com/mpielvitori/crowdfunding.git
