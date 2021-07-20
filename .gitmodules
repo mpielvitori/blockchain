@@ -13,3 +13,6 @@
 [submodule "crowdfunding"]
 	path = crowdfunding
 	url = https://github.com/mpielvitori/crowdfunding.git
+[submodule "hardhatQuickStart"]
+	path = hardhatQuickStart
+	url = https://github.com/mpielvitori/hardhatQuickStart.git
