@@ -16,3 +16,6 @@
 [submodule "hardhatQuickStart"]
 	path = hardhatQuickStart
 	url = https://github.com/mpielvitori/hardhatQuickStart.git
+[submodule "AMMChallenge"]
+	path = AMMChallenge
+	url = https://github.com/mpielvitori/AMMChallenge.git
