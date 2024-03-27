@@ -19,3 +19,9 @@
 [submodule "AMMChallenge"]
 	path = AMMChallenge
 	url = https://github.com/mpielvitori/AMMChallenge.git
+[submodule "dedonations"]
+	path = dedonations
+	url = https://github.com/mpielvitori/dedonations.git
+[submodule "blockchain-explorer"]
+	path = blockchain-explorer
+	url = https://github.com/mpielvitori/blockchain-explorer.git
