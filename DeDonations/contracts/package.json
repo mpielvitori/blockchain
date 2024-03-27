@@ -1,0 +1,21 @@
+{
+    "name": "de-donations",
+    "version": "1.0.0",
+    "description": "Donaciones decentralizadas",
+    "main": "index.js",
+    "scripts": {
+      "compile": "npx hardhat compile",
+      "deploy-mumbai": "npx hardhat deploy --network mumbai"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@nomiclabs/hardhat-waffle": "^2.0.2",
+      "hardhat": "^2.6.4",
+      "hardhat-deploy": "^0.8.4",
+      "hardhat-ethers": "^2.1.2",
+      "ethers": "^5.5.3"
+    }
+  }
+  
